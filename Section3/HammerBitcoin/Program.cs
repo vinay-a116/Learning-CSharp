@@ -11,7 +11,7 @@ namespace HammerBitcoin
             {
                BitcoinMiner game = new BitcoinMiner();
                game.Play();
-                playAgain = BitcoinMiner.GetYesOrNo("Would you like to play again?");
+               playAgain = BitcoinMiner.GetYesOrNo("Would you like to play again?");
             }
             Console.WriteLine("Goodbye");
         }
