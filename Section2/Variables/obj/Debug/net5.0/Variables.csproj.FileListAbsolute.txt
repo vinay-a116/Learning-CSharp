@@ -1,0 +1,16 @@
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\bin\Debug\net5.0\Variables.exe
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\bin\Debug\net5.0\Variables.deps.json
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\bin\Debug\net5.0\Variables.dll
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\bin\Debug\net5.0\Variables.pdb
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.dll
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\refint\Variables.dll
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.pdb
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
+D:\IHiS-Course\C-Sharp\LearningCSharp\Section2\Variables\obj\Debug\net5.0\ref\Variables.dll
